@@ -14,8 +14,7 @@ Full-stack on the edge — Cloudflare D1, Hono, Workers — and I run an **AI Re
 | Dense B2B solutions platform | A production AI consultancy | A11y 96 · Best-practices 100 · SEO 100 |
 | Launch platform + waitlist | A luxury car hire startup | +28% signups in 30 days |
 | Community platform rebuild | A sports officiating platform | 99+ performance · +40% organic traffic |
-
-**[falx.co](https://falx.co)** — my own cyber security consultancy platform, running 99/100/100/100 on Lighthouse.
+| Cyber security consultancy platform | A specialist cyber security consultancy | Lighthouse 99/100/100/100 |
 
 ## What I work with
 

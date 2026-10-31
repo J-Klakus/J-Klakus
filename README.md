@@ -14,7 +14,7 @@ Backends go on the edge, usually Cloudflare D1, Hono and Workers. I also run an 
 | Dense B2B solutions platform | A production AI consultancy | Lighthouse 96+ |
 | Launch platform + waitlist | A luxury car hire startup | +28% signups in 30 days |
 | Community platform rebuild | A sports officiating platform | Lighthouse 99+ · +40% organic traffic |
-| Cyber security consultancy platform | A specialist cyber security consultancy | Lighthouse 99+ |
+| Cyber security consultancy platform | [Falx](https://falx.co/) | Lighthouse 99+ |
 | Online store and fundraising platform for Catholic statues | [Filumena](https://www.filumena.net/) | Lighthouse 96+ |
 | Bilingual EN/IT marketing platform for a CAD automation toolkit | [Drycad](https://www.drycad.com/) | Lighthouse 97+ |
 | Marketing platform for a specialist AI workspace | [Jaro](https://whitespot.ai/jaro) | Lighthouse 92+ |

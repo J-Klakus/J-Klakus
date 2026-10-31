@@ -1,8 +1,8 @@
 # Hi, I'm Joe Klakus
 
-I build websites that load in under a second. Freelance web performance developer — Astro, TypeScript and Tailwind — tuning sites until Core Web Vitals pass and Lighthouse stops complaining. 18 production launches, most scoring 95+ across the board.
+I build websites that load in under a second. That's the whole pitch. Freelance web performance developer working in Astro, TypeScript and Tailwind, tuning sites until Core Web Vitals pass and Lighthouse stops complaining. 18 production launches so far, most scoring 95 or better across the board.
 
-Full-stack on the edge — Cloudflare D1, Hono, Workers — and I run an **AI Rescue** service for failing AI projects: data quality, model drift, retraining pipelines, monitoring.
+Backends go on the edge, usually Cloudflare D1, Hono and Workers. I also run an **AI Rescue** service. Companies bring me AI projects that went sideways, and I work out whether it's bad data, a drifting model or a retraining pipeline nobody has touched since launch.
 
 ## Selected work
 
